@@ -23,7 +23,7 @@ Gerenciar restaurantes, clientes, entregadores e pedidos com alta integridade de
    - SELECT * FROM vw_relatorio_regional;
 
 ## Vídeo Demonstrativo
-[Link do YouTube - Não_Listado]
+https://youtu.be/hhamuK0CcVg
 
 ## Tecnologias
 - MySQL 8.0+
